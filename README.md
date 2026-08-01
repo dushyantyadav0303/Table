@@ -44,7 +44,7 @@ Cake Table - It's a Table Specially designed for Cakes which help to Display the
 - Serving Cake
 
 ## Repository Structure
-- `src/CAD/` — Fusion 360 project sources
+- `src/` — Fusion 360 project sources
 - `production/` Production File
 - `Render/` for Render Sources
 
