@@ -29,7 +29,7 @@ Cake Table - It's a Table Specially designed for Cakes which help to Display the
 <br>
 <br>
 <p align=center>
-<img alt="banner" src="https://github.com/user-attachments/assets/e0d0a7ac-7a28-401e-b5b0-e4a3ea9b2bd9" width=60%/>
+<img alt="banner" src="https://github.com/user-attachments/assets/ea77862a-892d-40a3-b3e6-eed041715697" width=60%/>
 
 </p>
 
