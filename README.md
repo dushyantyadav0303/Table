@@ -21,6 +21,7 @@ Cake Table - It's a Table Specially designed for Cakes which help to Display the
   <a href="#repository-structure">Structure</a> •
   <a href="#cad">CAD</a> •
   <a href="#Render">Render</a> •
+   <a href="#bill-of-materials">BOM</a> •
   <a href="#Production">Production</a> •
   <a href="#license">License</a> •
   <a href="#credits">Credits</a>
@@ -75,6 +76,15 @@ Cake Table - It's a Table Specially designed for Cakes which help to Display the
 </div>
 
 - source: `Render`  
+
+
+## Bill of Materials
+
+Source: `BOM.csv`
+
+|item         |Qantity|price|link to buy                                     |
+|-------------|-------|-----|------------------------------------------------|
+|Pla+ filament|80gram|0.9$   |https://india.numakers.com/products/pla-filament|
 
 
 ## Production
