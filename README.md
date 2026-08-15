@@ -35,6 +35,7 @@ Cake Table - It's a Table Specially designed for Cakes which help to Display the
 </p>
 
 # Printable link: https://www.printables.com/model/1796971-cake-table
+
 ## About the Project
 
 **Cake Table** - It's a Table Specially designed for Cakes.
@@ -43,6 +44,9 @@ Cake Table - It's a Table Specially designed for Cakes which help to Display the
 - Cake Disply in Bakeries
 - Cake Cake Cutting
 - Serving Cake
+
+## Why i made this?
+### my mom like to make cake and she told me to 3d print a turning table. So I make one 
 
 ## Repository Structure
 - `src/` — Fusion 360 project sources
